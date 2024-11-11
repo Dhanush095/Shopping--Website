@@ -1,2 +1,1 @@
-# Shopping  Website
- simple shopping website
+# shopping-cart
